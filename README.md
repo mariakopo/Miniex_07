@@ -2,6 +2,8 @@
 
 //Create a random background with the lyrics from "Puff"
 
+https://mariakopo.github.io/Miniex_07/
+
 
 I was inspired by our previous miniex with the RITA library since I thought that something was missing back then. So now I have created the missing pieces which are the buttons.
 
